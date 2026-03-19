@@ -1,0 +1,140 @@
+{
+  "modern_industrialization:electric_blast_furnace": {
+    "criteria": {
+      "checkInv": "2026-03-19 17:03:51 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/magnet_card": {
+    "criteria": {
+      "has_wct": "2026-03-19 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2026-03-19 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-03-19 17:02:17 +0000"
+    },
+    "done": true
+  },
+  "charm:core/mobs": {
+    "criteria": {
+      "player_joined": "2026-03-19 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_pattern_encoding_terminal": {
+    "criteria": {
+      "has_wt": "2026-03-19 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "modern_industrialization:guidebook": {
+    "criteria": {
+      "checkInv": "2026-03-19 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "charm:core/tools": {
+    "criteria": {
+      "player_joined": "2026-03-19 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "charm:core/decoration": {
+    "criteria": {
+      "player_joined": "2026-03-19 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "charm:core/automation": {
+    "criteria": {
+      "player_joined": "2026-03-19 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2026-03-19 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2026-03-19 17:02:14 +0000",
+      "has_wct": "2026-03-19 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2026-03-19 17:02:14 +0000",
+      "has_wct": "2026-03-19 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2026-03-19 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2026-03-19 17:02:14 +0000",
+      "has_wpt": "2026-03-19 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "charm:core/enchantments": {
+    "criteria": {
+      "player_joined": "2026-03-19 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "charm:core/smithing": {
+    "criteria": {
+      "player_joined": "2026-03-19 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2026-03-19 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2026-03-19 17:02:18 +0000"
+    },
+    "done": false
+  },
+  "charm:core/root": {
+    "criteria": {
+      "player_joined": "2026-03-19 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2026-03-19 17:02:14 +0000",
+      "has_wpt": "2026-03-19 17:02:14 +0000",
+      "has_wct": "2026-03-19 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "charm:core/tweaks": {
+    "criteria": {
+      "player_joined": "2026-03-19 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

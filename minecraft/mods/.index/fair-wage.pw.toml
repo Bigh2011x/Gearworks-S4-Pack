@@ -1,0 +1,17 @@
+filename = 'fair-wage-0.0.1.jar'
+name = 'Fair wage'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20', '1.20.1', '1.20.1', '1.20.2', '1.20.2', '1.20.3', '1.20.3', '1.20.4', '1.20.4' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.0.1+mod'
+
+[download]
+hash = '2bdf9921732d2da47cdf5f636c2a350ddea71431d06789694bfdc9eac7809a9d091238d2c6952ea62521bc91c79dffa961b16006e0131a053514500b98a915d0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6YOmm63e/versions/ISZTJDN7/fair-wage-0.0.1.jar'
+
+[update.modrinth]
+mod-id = '6YOmm63e'
+version = 'ISZTJDN7'

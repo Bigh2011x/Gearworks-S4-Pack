@@ -1,0 +1,17 @@
+filename = 'server-essentials-1.2.0.jar'
+name = 'Fabric Server Essentials'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1', '1.20.2', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.0'
+
+[download]
+hash = '3a43aaa60ddbdbbec079899eb5720061bc617e676bfddc24e55744102991ed1d92f80d4dcaa4c5ed4c1d48b1698a4df0281e2c5412f074427e7e655fe9128f81'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/v5D5j0kg/versions/O7ywJAZf/server-essentials-1.2.0.jar'
+
+[update.modrinth]
+mod-id = 'v5D5j0kg'
+version = 'O7ywJAZf'

@@ -1,0 +1,15 @@
+{
+	numberOfOperations: 0L
+	playerBasket: {
+		basketMoneyEntries: [ ]
+	}
+	offers: [ ]
+	playerID: [I;
+		1255648624
+		-577222902
+		-1539784863
+		-1339183416
+	]
+	countMoneyByOperations: 0L
+	countOffers: 10
+}

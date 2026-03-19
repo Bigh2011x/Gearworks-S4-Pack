@@ -1,0 +1,29 @@
+{
+  "readDocs": "https://github.com/tyap-lyap/skylands/wiki",
+  "defaultSpawnPos": {
+    "x": 0.5,
+    "y": 75.0,
+    "z": 0.5,
+    "yaw": 0.0,
+    "pitch": 0.0
+  },
+  "defaultVisitsPos": {
+    "x": 0.5,
+    "y": 75.0,
+    "z": 0.5,
+    "yaw": 0.0,
+    "pitch": 0.0
+  },
+  "defaultHubPos": {
+    "x": 0.5,
+    "y": 80.0,
+    "z": 0.5,
+    "yaw": 0.0,
+    "pitch": 0.0
+  },
+  "hubProtectedByDefault": false,
+  "islandDeletionCooldown": 86400,
+  "updateCheckerEnabled": true,
+  "teleportAfterIslandCreation": false,
+  "createIslandOnPlayerJoin": false
+}

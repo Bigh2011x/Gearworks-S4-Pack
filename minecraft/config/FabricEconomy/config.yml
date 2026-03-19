@@ -1,0 +1,4 @@
+# Config File for FabricEconomy
+config-version:1
+default-balance: 0.0
+provider: me.isaiah.mods.economy.api.DefaultEconomyProvider

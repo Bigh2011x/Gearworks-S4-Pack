@@ -1,0 +1,30 @@
+{
+  "backups": [
+    {
+      "worldName": "New World (2)",
+      "createTime": 1773856800946,
+      "backupLocation": "C:\\Users\\user\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\backups\\2026-3-18_18-0-0.zip",
+      "size": 30616879,
+      "ratio": 0.85722494,
+      "sha1": "c2234db5e0972849628b89018eb9d65d22cb7ea5",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    },
+    {
+      "worldName": "New World (3)",
+      "createTime": 1773858600554,
+      "backupLocation": "C:\\Users\\user\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\backups\\2026-3-18_18-30-0.zip",
+      "size": 61813150,
+      "ratio": 0.7896027,
+      "sha1": "2e1bc8edd550eb4779e4e2614b45314fa7d0c090",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"jarName":"CrashAssistant-fabric-1.19-1.20.1-1.11.3.jar","modId":"crash_assistant","version":"1.11.3","mixinConfigs":["crash_assistant-fabric.mixins.json","crash_assistant.mixins.json"],"jarJarMods":[{"jarName":"app.jar","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}],"curseForgeHash":2207898975,"modrinthHash":"aacc4ddb5ef051a73ff90d242bc64bdcee86c4a9"}

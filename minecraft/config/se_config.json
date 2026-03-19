@@ -1,0 +1,21 @@
+{
+  //If you want to add new tasks through this config, use 24 hour time and only have 1 command per time
+  "scheduledTasks": {},
+  //Information about the server, which users can see with the /info command
+  "serverInfo": "",
+  //Argument for restarting the server, which can be modified for your needs (such as increasing ram)
+  //%s is replaced with the server jar directory when run, but you can put in this path manually.
+  //java can be replaced with a specific java installation, but this is usually unnecessary.
+  "restartArgument": "java -jar %s nogui",
+  //Set to true to restart the server automatically when shut down or after (some) crashes,
+  //But /stop still stops the server, so use /restart instead if you want to restart the server
+  "shouldRestartAutomatically": false,
+  //Following values are whether certain commands are enabled or not, by default all are.
+  "broadcastCommandEnabled": true,
+  "coordsCommandEnabled": true,
+  "flexItemCommandEnabled": true,
+  "infoCommandEnabled": true,
+  "pingCommandEnabled": true,
+  "restartCommandEnabled": true,
+  "scheduleCommandEnabled": true
+}
