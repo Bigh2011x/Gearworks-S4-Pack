@@ -1,0 +1,17 @@
+filename = 'copycats-3.0.7+mc.1.20.1-fabric.jar'
+name = 'Create: Copycats+'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.0.7+mc.1.20.1-fabric'
+
+[download]
+hash = '024d5aaacb96a73afe0c2d3810e7fbc0263bef2cd296f2b7b90593700e3ff9414f72e05e4a5301eee5bf8e337c6bab89d69bfd79d9ff0956ef207eb6639cf66c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UT2M39wf/versions/dMrxOciv/copycats-3.0.7%2Bmc.1.20.1-fabric.jar'
+
+[update.modrinth]
+mod-id = 'UT2M39wf'
+version = 'dMrxOciv'

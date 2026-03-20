@@ -1,0 +1,1 @@
+{"jarName":"create_dd-0.1d.jar","modId":"create_dd","version":"0.1d","mixinConfigs":["create_dd.mixins.json"],"jarJarMods":[{"jarName":"dsbg_fabric-1.0.jar","modId":"dsbg","version":"1.0","mixinConfigs":["dsbg.mixins.json"],"jarJarMods":[],"pathFromJarJar":"/META-INF/jars/"}],"curseForgeHash":3469021417,"modrinthHash":"09de8b59aaeca8d3fe5c0b684c667c77b9818ae2"}
