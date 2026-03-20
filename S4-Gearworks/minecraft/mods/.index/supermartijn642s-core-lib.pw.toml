@@ -1,0 +1,17 @@
+filename = 'supermartijn642corelib-1.1.20-fabric-mc1.20.1.jar'
+name = "SuperMartijn642's Core Lib"
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.20-fabric-mc1.20.1'
+
+[download]
+hash = '04fe7154a777af4e441b771e3148747b7fd04fc2f3116801a50303f80d4ac6799a1706f2ded39a58d6bfb3efbe658ab76a0921012124a63f4b0ef8b09390318f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rOUBggPv/versions/iyGIoibJ/supermartijn642corelib-1.1.20-fabric-mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'rOUBggPv'
+version = 'iyGIoibJ'

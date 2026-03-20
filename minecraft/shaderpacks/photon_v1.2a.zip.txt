@@ -1,4 +1,0 @@
-#Thu Mar 19 17:19:27 GMT 2026
-COLORED_LIGHTS=true
-shadowMapResolution=8192
-HANDHELD_LIGHTING=true

@@ -1,0 +1,60 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:modern_industrialization:lignite_coal",
+    "item:modern_industrialization:iron_double_ingot",
+    "item:modern_industrialization:iron_plate",
+    "item:modern_industrialization:iron_large_plate",
+    "item:modern_industrialization:iron_hammer",
+    "#item:modern_industrialization:forge_hammer_tools",
+    {
+      "type": "item",
+      "id": "modern_industrialization:raw_tin",
+      "amount": 3
+    },
+    "item:modern_industrialization:tin_dust",
+    "item:modern_industrialization:soldering_alloy_dust",
+    "item:modern_industrialization:soldering_alloy_block",
+    "item:modern_industrialization:le_mox_ingot",
+    "item:modern_industrialization:chromium_plate",
+    "item:modern_industrialization:chromium_block",
+    "item:modern_industrialization:turbo_machine_casing",
+    "item:numismatic-overhaul:shop",
+    "item:minecraft:player_head{ExtraAttributes:{id:\"DROPLET_WISP;1\"},SkullOwner:{Id:[I;1137154068,737819550,-1482770275,1327951923],Name:\"DROPLET_WISP;1\",Properties:{textures:[{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0NjYxOTA3MTM2NSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjQxMmU3MDM3NWVjOTllZTM4YWU5NGIzMGU5YjEwNzUyZDQ1OTY2MmI1NDc5NGRmZTY2ZmU2YTE4M2M2NzJkMyIKICAgIH0KICB9Cn0\u003d\"}]}},display:{Lore:[\u0027{\"text\":\"§8Gabagool Pet, feed to gain XP\"}\u0027,\u0027{\"text\":\"\"}\u0027,\u0027{\"text\":\"§7Health: §c1.0 ? 100.0\"}\u0027,\u0027{\"text\":\"§7Damage: §c0.1 ? 10.0\"}\u0027,\u0027{\"text\":\"\"}\u0027,\u0027{\"text\":\"§6Drophammer\"}\u0027,\u0027{\"text\":\"§7§7Lets you break fire pillars,\"}\u0027,\u0027{\"text\":\"§7which heals you for §c15% §7of\"}\u0027,\u0027{\"text\":\"§7your max §c? §7over §a3s§7.\"}\u0027,\u0027{\"text\":\"\"}\u0027,\u0027{\"text\":\"§6Bulwark\"}\u0027,\u0027{\"text\":\"§7Kill Blazes to gain defense\"}\u0027,\u0027{\"text\":\"§7against them and demons.\"}\u0027,\u0027{\"text\":\"§7Bonus: §a+0? §7\u0026 §f+0?\"}\u0027,\u0027{\"text\":\"§7Next Upgrade: §a+30? §7\u0026 §f+3? §8(§a0§7/§c100§8)\"}\u0027,\u0027{\"text\":\"\"}\u0027,\u0027{\"text\":\"§6Blaze Slayer\"}\u0027,\u0027{\"text\":\"§7§7Gain §b1.003 ? 1.3x §7Combat XP\"}\u0027,\u0027{\"text\":\"§7§7against §aBlazes§7.\"}\u0027,\u0027{\"text\":\"\"}\u0027,\u0027{\"text\":\"§7§eRight-click to add this pet to\"}\u0027,\u0027{\"text\":\"§eyour pet menu!\"}\u0027,\u0027{\"text\":\"\"}\u0027,\u0027{\"text\":\"§a§lUNCOMMON\"}\u0027],Name:\u0027{\"text\":\"§7[Lvl 1 ? 100] §aDroplet Wisp\"}\u0027}}",
+    "item:minecraft:wooden_axe{Damage:0,Enchantments:[{}],ExtraAttributes:{id:\"DWARVEN_EMERALD_HAMMER\"},display:{Lore:[\u0027{\"text\":\"§8Quest Item\"}\u0027,\u0027{\"text\":\"\"}\u0027,\u0027{\"text\":\"§7Bring to the §6Keeper of Emerald §7in\"}\u0027,\u0027{\"text\":\"§7the §2Mines of Divan§7.\"}\u0027,\u0027{\"text\":\"\"}\u0027,\u0027{\"text\":\"§c§lSPECIAL\"}\u0027],Name:\u0027{\"text\":\"§cScavenged Emerald Hammer\"}\u0027}}",
+    "item:minecraft:diamond",
+    "item:modern_industrialization:diamond_plate",
+    "item:modern_industrialization:diamond_large_plate",
+    "item:modern_industrialization:diamond_hammer{Damage:0}",
+    "item:ae2:certus_quartz_crystal",
+    "#item:c:certus_quartz",
+    "item:ae2:certus_quartz_dust",
+    "item:ae2:printed_engineering_processor",
+    "item:supplementaries:relayer",
+    "item:supplementaries:spring_launcher",
+    {
+      "type": "item",
+      "id": "modern_industrialization:bauxite_tiny_dust",
+      "amount": 4
+    }
+  ],
+  "craft_history": [
+    "minecraft:stone_pickaxe",
+    "minecraft:crafting_table",
+    "minecraft:torch",
+    "minecraft:stick",
+    "minecraft:oak_planks",
+    "minecraft:furnace",
+    "minecraft:white_bed",
+    "minecraft:stone_sword",
+    "minecraft:stone_axe",
+    "minecraft:wooden_pickaxe"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}
