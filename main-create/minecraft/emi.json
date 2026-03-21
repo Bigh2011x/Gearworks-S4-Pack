@@ -1,6 +1,13 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:modern_industrialization:lead_ingot",
+    "item:modern_industrialization:lead_dust",
+    {
+      "type": "item",
+      "id": "modern_industrialization:raw_lead",
+      "amount": 2
+    },
     "#item:railways:palettes/cycle_groups/netherite/base",
     "item:railways:flat_riveted_locometal",
     "#item:railways:palettes/dye_groups/flat_riveted",
@@ -133,6 +140,7 @@
     }
   ],
   "craft_history": [
+    "minecraft:white_bed",
     "minecraft:torch",
     "minecraft:stone_axe",
     "minecraft:stone_pickaxe",
@@ -147,7 +155,6 @@
     "minecraft:jungle_planks",
     "charm:vanilla_wood_variants/jungle_chest",
     "minecraft:iron_pickaxe",
-    "minecraft:white_bed",
     "minecraft:stone_sword"
   ],
   "recipe_defaults": {

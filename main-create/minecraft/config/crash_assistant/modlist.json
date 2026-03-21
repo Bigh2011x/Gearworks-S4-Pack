@@ -753,6 +753,13 @@
     "curseForgeHash": 2971442500,
     "modrinthHash": "be88938ca5df78271e64bc9f85c3575754f33e2a"
   },
+  "Plethora-Fabric-1.13.0.jar": {
+    "jarName": "Plethora-Fabric-1.13.0.jar",
+    "modId": "plethora",
+    "version": "1.13.0",
+    "curseForgeHash": 507474476,
+    "modrinthHash": "a7d1198857834e419ebc9820e7481f05cf94c66c"
+  },
   "polylib-fabric-2000.0.3-build.143.jar": {
     "jarName": "polylib-fabric-2000.0.3-build.143.jar",
     "modId": "polylib",
