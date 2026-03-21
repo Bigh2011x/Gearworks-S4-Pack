@@ -1,0 +1,1 @@
+{"jarName":"Neat-1.20.1-41-FABRIC.jar","modId":"neat","version":"1.20.1-41-FABRIC","mixinConfigs":["neat.mixins.json"],"jarJarMods":[{"jarName":"fiber-0.23.0-2.jar","modId":"fiber","version":"0.23.0-2","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jars/"}],"curseForgeHash":544046565,"modrinthHash":"e85be7ed02a26c819d3e527b6f52f1254e8f6706"}

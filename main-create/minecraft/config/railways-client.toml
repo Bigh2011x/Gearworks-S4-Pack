@@ -55,6 +55,7 @@
 			#.
 			#Thicker smoke (renders 2 extra layers per particle)
 			thickerSmoke = true
+
 		#.
 		#Cartoon-style Smoke Settings
 		[client.smoke.cartoon]

@@ -11,6 +11,8 @@
   "ae2:power_storage": null,
   "ae2:server_data": null,
   "balm:jade": null,
+  "exposure:lightroom": null,
+  "exposure:photograph_frame": null,
   "fabricaeexnihilo:barrel": null,
   "fabricaeexnihilo:crucible": null,
   "fabricaeexnihilo:infesting_leaves": null,
@@ -66,5 +68,8 @@
   "supplementaries:hat_stand": null,
   "supplementaries:present": null,
   "supplementaries:safe": null,
+  "toms_peripherals:full_modem_info": null,
+  "toms_peripherals:modem_info": null,
+  "toms_peripherals:wdt_info": null,
   "waystones:waystone": null
 }

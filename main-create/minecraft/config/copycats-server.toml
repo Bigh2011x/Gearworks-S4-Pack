@@ -1,7 +1,7 @@
-[stressValues]
 	#.
 	#Fine tune the kinetic stats of individual components
 	[stressValues.v1]
+
 		#.
 		#.
 		#[in Stress Units]

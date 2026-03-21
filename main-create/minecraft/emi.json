@@ -1,6 +1,89 @@
 {
   "favorites": [],
   "lookup_history": [
+    "#item:railways:palettes/cycle_groups/netherite/base",
+    "item:railways:flat_riveted_locometal",
+    "#item:railways:palettes/dye_groups/flat_riveted",
+    "item:railways:black_flat_riveted_locometal",
+    [
+      "item:railways:black_flat_riveted_locometal",
+      "item:railways:light_gray_flat_riveted_locometal",
+      "item:railways:flat_riveted_locometal",
+      "item:railways:orange_flat_riveted_locometal",
+      "item:railways:green_flat_riveted_locometal",
+      "item:railways:gray_flat_riveted_locometal",
+      "item:railways:light_blue_flat_riveted_locometal",
+      "item:railways:lime_flat_riveted_locometal",
+      "item:railways:yellow_flat_riveted_locometal",
+      "item:railways:red_flat_riveted_locometal",
+      "item:railways:white_flat_riveted_locometal",
+      "item:railways:cyan_flat_riveted_locometal",
+      "item:railways:blue_flat_riveted_locometal",
+      "item:railways:pink_flat_riveted_locometal",
+      "item:railways:magenta_flat_riveted_locometal",
+      "item:railways:purple_flat_riveted_locometal",
+      "item:railways:brown_flat_riveted_locometal"
+    ],
+    "item:railways:riveted_locometal",
+    "item:railways:hinged_locometal_door",
+    "item:farmersdelight:full_tatami_mat",
+    "item:createaddition:cake_base_baked",
+    "item:createaddition:cake_base",
+    {
+      "type": "item",
+      "id": "minecraft:sugar",
+      "amount": 2
+    },
+    "item:minecraft:sugar_cane",
+    {
+      "type": "fluid",
+      "id": "create:chocolate",
+      "amount": 81000,
+      "remainder": {
+        "type": "fluid",
+        "id": "create:chocolate",
+        "amount": 81000
+      }
+    },
+    "item:create:scoria",
+    "item:create:crushing_wheel",
+    "item:create:flywheel",
+    "item:adorn:birch_platform",
+    "item:alloy_forgery:stone_bricks_forge_controller",
+    "item:modern_industrialization:forge_hammer",
+    "item:modern_industrialization:inductor",
+    "item:modern_industrialization:polarizer",
+    "item:modern_industrialization:cupronickel_wire_magnetic",
+    "item:modern_industrialization:cupronickel_wire",
+    "item:modern_industrialization:electric_blast_furnace",
+    "item:modern_industrialization:steel_ingot",
+    "item:modern_industrialization:steel_rod",
+    "item:minecraft:blast_furnace",
+    {
+      "type": "item",
+      "id": "create:brass_ingot",
+      "amount": 3
+    },
+    "item:minecraft:stone_bricks",
+    "item:alloy_forgery:polished_blackstone_forge_controller",
+    "item:modern_industrialization:steel_dust",
+    "item:modern_industrialization:steel_double_ingot",
+    "item:modern_industrialization:steel_plate",
+    "item:modern_industrialization:steel_large_plate",
+    "item:modern_industrialization:steam_quarry",
+    "item:farmersdelight:squid_ink_pasta",
+    {
+      "type": "item",
+      "id": "minecraft:cocoa_beans",
+      "amount": 18
+    },
+    "item:minecraft:charcoal",
+    "#item:minecraft:coals",
+    {
+      "type": "item",
+      "id": "modern_industrialization:lignite_coal",
+      "amount": 7
+    },
     "item:supplementaries:checker_block",
     "item:charm:azalea_door",
     "item:minecraft:blaze_rod",
@@ -14,7 +97,6 @@
     "item:modern_industrialization:coal_dust",
     "item:minecraft:coal_block",
     "item:minecraft:diamond_block",
-    "item:modern_industrialization:lignite_coal",
     "item:modern_industrialization:iron_double_ingot",
     "item:modern_industrialization:iron_plate",
     "item:modern_industrialization:iron_large_plate",
@@ -51,16 +133,22 @@
     }
   ],
   "craft_history": [
+    "minecraft:torch",
+    "minecraft:stone_axe",
     "minecraft:stone_pickaxe",
     "minecraft:wooden_pickaxe",
     "minecraft:stick",
     "minecraft:crafting_table",
     "minecraft:oak_planks",
-    "minecraft:torch",
+    "alloy_forgery:stone_bricks_forge",
+    "minecraft:blast_furnace",
     "minecraft:furnace",
+    "minecraft:stone_bricks",
+    "minecraft:jungle_planks",
+    "charm:vanilla_wood_variants/jungle_chest",
+    "minecraft:iron_pickaxe",
     "minecraft:white_bed",
-    "minecraft:stone_sword",
-    "minecraft:stone_axe"
+    "minecraft:stone_sword"
   ],
   "recipe_defaults": {
     "added": [],
