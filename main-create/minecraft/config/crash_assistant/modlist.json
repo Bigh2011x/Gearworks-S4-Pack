@@ -291,13 +291,6 @@
     "curseForgeHash": 3351547493,
     "modrinthHash": "c8072e79637d94f96d26dbeb67357f9420957c6c"
   },
-  "diet-fabric-2.1.1+1.20.1.jar": {
-    "jarName": "diet-fabric-2.1.1+1.20.1.jar",
-    "modId": "diet",
-    "version": "2.1.1+1.20.1",
-    "curseForgeHash": 994958657,
-    "modrinthHash": "64095bba25206755c4bdaa85b1da4527268f99d8"
-  },
   "DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar": {
     "jarName": "DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar",
     "modId": "distanthorizons",
@@ -451,6 +444,13 @@
     "version": "2001.2.12",
     "curseForgeHash": 333504375,
     "modrinthHash": "974823aa0fcb3420cae1e7a0148469672d0bc186"
+  },
+  "ftb-ultimine-fabric-2001.1.7.jar": {
+    "jarName": "ftb-ultimine-fabric-2001.1.7.jar",
+    "modId": "ftbultimine",
+    "version": "2001.1.7",
+    "curseForgeHash": 1702155113,
+    "modrinthHash": "416c3af27ade2481cb7c2e2f82da6e1e1a022352"
   },
   "ftb-xmod-compat-fabric-2.1.3.jar": {
     "jarName": "ftb-xmod-compat-fabric-2.1.3.jar",
@@ -914,13 +914,6 @@
     "curseForgeHash": 651317422,
     "modrinthHash": "252de323db10d2b49ef74f8e7a6a5c72929be140"
   },
-  "spiceoffabric-1.6.2+mc1.20.1.jar": {
-    "jarName": "spiceoffabric-1.6.2+mc1.20.1.jar",
-    "modId": "spiceoffabric",
-    "version": "1.6.2+mc1.20.1",
-    "curseForgeHash": 3327443171,
-    "modrinthHash": "92fc41b981db1e1fbc9f10918587de7edd60de28"
-  },
   "Steam_Rails-1.7.2+fabric-mc1.20.1.jar": {
     "jarName": "Steam_Rails-1.7.2+fabric-mc1.20.1.jar",
     "modId": "railways",
@@ -1033,12 +1026,26 @@
     "curseForgeHash": 3608356765,
     "modrinthHash": "2fc54c6af762147657ec0c06c03e2fd0339783ee"
   },
+  "XaeroPlus-2.30.10+fabric-1.20.1-WM1.40.11-MM25.3.10.jar": {
+    "jarName": "XaeroPlus-2.30.10+fabric-1.20.1-WM1.40.11-MM25.3.10.jar",
+    "modId": "xaeroplus",
+    "version": "2.30.10",
+    "curseForgeHash": 2702273430,
+    "modrinthHash": "939526b665fa3cd8269e7ed0ba1a663ecafbdad0"
+  },
   "xaeroworldmap-fabric-1.20.1-1.40.11.jar": {
     "jarName": "xaeroworldmap-fabric-1.20.1-1.40.11.jar",
     "modId": "xaeroworldmap",
     "version": "1.40.11",
     "curseForgeHash": 1063851813,
     "modrinthHash": "b4f34e57f3bca8b98bf445e870e0acd1bd60856d"
+  },
+  "xmxw-2.7.4+1.20.1-fabric.jar": {
+    "jarName": "xmxw-2.7.4+1.20.1-fabric.jar",
+    "modId": "xmxw",
+    "version": "2.7.4+1.20.1-fabric",
+    "curseForgeHash": 1290419639,
+    "modrinthHash": "780f66386f49cdba298a0f8de63e4dbefac1e8bc"
   },
   "yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar": {
     "jarName": "yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",

@@ -1,9 +1,10 @@
-[11:53:24] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
-[11:53:24] [INIT] Loaded plugins:
-[11:53:24] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
-[11:53:24] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricClientPlugin
-[11:53:24] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
-[11:53:24] [INFO] example.js#5: Hello, World! (Loaded client scripts)
-[11:53:24] [INFO] Loaded script client_scripts:example.js in 0.002 s
-[11:53:24] [INFO] Loaded 1/1 KubeJS client scripts in 0.01 s with 0 errors and 0 warnings
-[11:53:33] [INFO] Client resource reload complete!
+[07:20:23] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
+[07:20:23] [INIT] Loaded plugins:
+[07:20:23] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[07:20:23] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricClientPlugin
+[07:20:23] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[07:20:23] [INFO] example.js#5: Hello, World! (Loaded client scripts)
+[07:20:23] [INFO] Loaded script client_scripts:example.js in 0.0 s
+[07:20:23] [INFO] Loaded 1/1 KubeJS client scripts in 0.009 s with 0 errors and 0 warnings
+[07:20:32] [INFO] Client resource reload complete!
+[07:57:13] [INFO] Client resource reload complete!

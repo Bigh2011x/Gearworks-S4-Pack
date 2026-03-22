@@ -10,6 +10,7 @@ sortReversed:false
 ignoreHeightmaps:false
 
 //dimension types (DO NOT EDIT)
-dimensionType:skylands$4ad7ad70-dd98-470a-a438-bf61b02daec8:minecraft$overworld
 dimensionType:minecraft$overworld:minecraft$overworld
+dimensionType:skylands$4ad7ad70-dd98-470a-a438-bf61b02daec8:minecraft$overworld
+dimensionType:minecraft$the_nether:minecraft$the_nether
 //server waypoints
