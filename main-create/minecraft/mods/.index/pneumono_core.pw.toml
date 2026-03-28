@@ -1,0 +1,17 @@
+filename = 'pneumonocore-1.3.0+1.20+A.jar'
+name = 'PneumonoCore'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20', '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.0+1.20+A'
+
+[download]
+hash = '8dcbc86d52996c88b61a4bb0b87c7e018fba710deb02ac3136ffd00ad200ab7d7df65e768df77568fc2d4ddce56ab2c0721513445b03e1761b3678854841eb47'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZLKQjA7t/versions/3oeS6JZU/pneumonocore-1.3.0%2B1.20%2BA.jar'
+
+[update.modrinth]
+mod-id = 'ZLKQjA7t'
+version = '3oeS6JZU'

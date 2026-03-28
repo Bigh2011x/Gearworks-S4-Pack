@@ -6,5 +6,8 @@
 	"smartHeuristics": true,
 	"handleSystemMessages": true,
 	"drawShadow": true,
-	"nameAliases": { }
+	"nameAliases": {
+		"<Bigh2011x>": "fine",
+		"<Hishe>": "it"
+	}
 }

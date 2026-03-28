@@ -1,6 +1,9 @@
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
 #
+waypoint:Blazes:B:-348:64:212:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Latest Death:D:1960:47:-1032:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Bamboo:B:-245:~:-798:13:false:0:gui.xaero_default:false:0:0:false
 waypoint:Shared Location:S:-564:65:940:6:false:0:gui.xaero_default:false:0:0:false
 waypoint:Spawn:S:0:96:0:14:false:0:gui.xaero_default:false:0:0:false
 waypoint:Home:H:-432:64:219:9:false:0:gui.xaero_default:false:0:0:false

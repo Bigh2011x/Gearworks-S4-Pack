@@ -81,6 +81,13 @@
     "curseForgeHash": 2799729741,
     "modrinthHash": "53014ceff1e10085609c16adbe246df51113bfe9"
   },
+  "Audio Improvements v1.3.1 - Fabric 1.20.1.jar": {
+    "jarName": "Audio Improvements v1.3.1 - Fabric 1.20.1.jar",
+    "modId": "audioimprovements",
+    "version": "1.3.1",
+    "curseForgeHash": 3648381406,
+    "modrinthHash": "746340a3e4352e9e7a3d2fc751e71ac7617656f7"
+  },
   "BadOptimizations-2.4.1-1.20.1.jar": {
     "jarName": "BadOptimizations-2.4.1-1.20.1.jar",
     "modId": "badoptimizations",
@@ -354,12 +361,26 @@
     "curseForgeHash": 3996580657,
     "modrinthHash": "4b6334a28479292aae9959396ea0f06f3f793e96"
   },
+  "entityculling-fabric-1.10.0-mc1.20.1.jar": {
+    "jarName": "entityculling-fabric-1.10.0-mc1.20.1.jar",
+    "modId": "entityculling",
+    "version": "1.10.0",
+    "curseForgeHash": 2176619045,
+    "modrinthHash": "f99f5912e7f07b5b7cd4fa666e1e20d05e8412f3"
+  },
   "entityculling-fabric-1.9.5-mc1.20.1.jar": {
     "jarName": "entityculling-fabric-1.9.5-mc1.20.1.jar",
     "modId": "entityculling",
     "version": "1.9.5",
     "curseForgeHash": 3473726672,
     "modrinthHash": "d82ff7418e16ef89afa123127e3fb945983cdf70"
+  },
+  "etched-3.0.1.5-fabricated.jar": {
+    "jarName": "etched-3.0.1.5-fabricated.jar",
+    "modId": "etched",
+    "version": "3.0.1.5-fabricated",
+    "curseForgeHash": 1267022539,
+    "modrinthHash": "50d276b5609bf4a71841f42621313253abf77e65"
   },
   "EuphoriaPatcher-1.8.6-r5.7.1-fabric.jar": {
     "jarName": "EuphoriaPatcher-1.8.6-r5.7.1-fabric.jar",
@@ -375,6 +396,13 @@
     "curseForgeHash": 3795842450,
     "modrinthHash": "3b673758e28486c9e632cbcb0275c3ad4ef9c2e4"
   },
+  "exposure-fabric-1.20.1-1.9.20.jar": {
+    "jarName": "exposure-fabric-1.20.1-1.9.20.jar",
+    "modId": "exposure",
+    "version": "1.9.20",
+    "curseForgeHash": 2383045934,
+    "modrinthHash": "7f76eeac53b2a7a26d52c3023e983ad41a57900b"
+  },
   "extra-mod-integrations-0.4.7+1.20.1.jar": {
     "jarName": "extra-mod-integrations-0.4.7+1.20.1.jar",
     "modId": "extra-mod-integrations",
@@ -388,6 +416,13 @@
     "version": "0.92.7+1.20.1",
     "curseForgeHash": 1423664750,
     "modrinthHash": "85117a1e8984a45c972b85571c8e075cee45039a"
+  },
+  "fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar": {
+    "jarName": "fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+    "modId": "fabric-language-kotlin",
+    "version": "1.13.10+kotlin.2.3.20",
+    "curseForgeHash": 4105875948,
+    "modrinthHash": "9873294abf498f509453d37b0a5ba019f4570ffb"
   },
   "fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar": {
     "jarName": "fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
@@ -494,6 +529,13 @@
     "curseForgeHash": 2382871046,
     "modrinthHash": "0d4c5b1a39746a3f5bec08b876a484ac5a6d248f"
   },
+  "gravestones-1.3.0+1.20+A.jar": {
+    "jarName": "gravestones-1.3.0+1.20+A.jar",
+    "modId": "gravestones",
+    "version": "1.3.0",
+    "curseForgeHash": 1915792913,
+    "modrinthHash": "ab141bc2326ca0011e9ae41d214eb386c9a5925a"
+  },
   "handcrafted-fabric-1.20.1-3.0.6.jar": {
     "jarName": "handcrafted-fabric-1.20.1-3.0.6.jar",
     "modId": "handcrafted",
@@ -536,12 +578,12 @@
     "curseForgeHash": 3034512682,
     "modrinthHash": "880c0b9ce38bb4997645793407c1801df83f4233"
   },
-  "ItemPhysic_FABRIC_v1.8.9_mc1.20.1.jar": {
-    "jarName": "ItemPhysic_FABRIC_v1.8.9_mc1.20.1.jar",
-    "modId": "itemphysic",
-    "version": "1.8.9",
-    "curseForgeHash": 813965943,
-    "modrinthHash": "2a1150907a93a35cbafcb008b31232a5b924df4f"
+  "ItemPhysicLite_FABRIC_v1.6.6_mc1.20.1.jar": {
+    "jarName": "ItemPhysicLite_FABRIC_v1.6.6_mc1.20.1.jar",
+    "modId": "itemphysiclite",
+    "version": "1.6.6",
+    "curseForgeHash": 3850752819,
+    "modrinthHash": "fdeae3e7d42c6934a94bab5735790f5e078f1538"
   },
   "Jade-1.20-Fabric-11.13.1.jar": {
     "jarName": "Jade-1.20-Fabric-11.13.1.jar",
@@ -760,6 +802,20 @@
     "curseForgeHash": 507474476,
     "modrinthHash": "a7d1198857834e419ebc9820e7481f05cf94c66c"
   },
+  "pneumonocore-1.2.1+1.20+A.jar": {
+    "jarName": "pneumonocore-1.2.1+1.20+A.jar",
+    "modId": "pneumonocore",
+    "version": "1.2.1",
+    "curseForgeHash": 2961951515,
+    "modrinthHash": "66001b561ad888dc3af0e2f64683f70b8b019a91"
+  },
+  "pneumonocore-1.3.0+1.20+A.jar": {
+    "jarName": "pneumonocore-1.3.0+1.20+A.jar",
+    "modId": "pneumonocore",
+    "version": "1.3.0",
+    "curseForgeHash": 1213461254,
+    "modrinthHash": "a78425dbf200a333a9fc218d10a1e43f79cfe70c"
+  },
   "polylib-fabric-2000.0.3-build.143.jar": {
     "jarName": "polylib-fabric-2000.0.3-build.143.jar",
     "modId": "polylib",
@@ -865,6 +921,13 @@
     "curseForgeHash": 1032587124,
     "modrinthHash": "f13191c806b098b013c42a5a00b7f0a515abeb12"
   },
+  "skinlayers3d-fabric-1.11.0-mc1.20.1.jar": {
+    "jarName": "skinlayers3d-fabric-1.11.0-mc1.20.1.jar",
+    "modId": "skinlayers3d",
+    "version": "1.11.0",
+    "curseForgeHash": 3867675905,
+    "modrinthHash": "46f749631d086f90adc2829d04af7cfe4a2d8ac1"
+  },
   "sliceanddice-fabric-3.5.2.jar": {
     "jarName": "sliceanddice-fabric-3.5.2.jar",
     "modId": "sliceanddice",
@@ -949,6 +1012,13 @@
     "curseForgeHash": 3075106265,
     "modrinthHash": "7b6d505539c5f342ab31d5dcbf0cde05b0782c47"
   },
+  "supermartijn642corelib-1.1.21-fabric-mc1.20.1.jar": {
+    "jarName": "supermartijn642corelib-1.1.21-fabric-mc1.20.1.jar",
+    "modId": "supermartijn642corelib",
+    "version": "1.1.21",
+    "curseForgeHash": 835230463,
+    "modrinthHash": "824c8d015c1f4823ae543c970016d77eea31c52d"
+  },
   "supplementaries-1.20-3.1.42-fabric.jar": {
     "jarName": "supplementaries-1.20-3.1.42-fabric.jar",
     "modId": "supplementaries",
@@ -998,6 +1068,13 @@
     "curseForgeHash": 1562565928,
     "modrinthHash": "d58cc8759587f03f320f188972ca66baa788d008"
   },
+  "urlmusicdiscs-1.2.0+1.20.1.jar": {
+    "jarName": "urlmusicdiscs-1.2.0+1.20.1.jar",
+    "modId": "urlmusicdiscs",
+    "version": "1.2.0",
+    "curseForgeHash": 1570494996,
+    "modrinthHash": "d698e38ed10b0590fcf9919704a0ef4ab8a5bdff"
+  },
   "VersionCheckerMod-2.5.0.jar": {
     "jarName": "VersionCheckerMod-2.5.0.jar",
     "modId": "kotori316_version_checker",
@@ -1011,6 +1088,20 @@
     "version": "0.7.1+1.20",
     "curseForgeHash": 2811749322,
     "modrinthHash": "a4a5fc1edae49126432fc903dd6fdbb88b7251ed"
+  },
+  "voicechat-fabric-1.20.1-2.6.12.jar": {
+    "jarName": "voicechat-fabric-1.20.1-2.6.12.jar",
+    "modId": "voicechat",
+    "version": "1.20.1-2.6.12",
+    "curseForgeHash": 3281223139,
+    "modrinthHash": "10d85fe22af43d6bfde61b188dfce45c2d13fe7f"
+  },
+  "voicechat-fabric-1.20.1-2.6.13.jar": {
+    "jarName": "voicechat-fabric-1.20.1-2.6.13.jar",
+    "modId": "voicechat",
+    "version": "1.20.1-2.6.13",
+    "curseForgeHash": 360889632,
+    "modrinthHash": "6321d7104ff0720b807273de542a464573644a09"
   },
   "waystones-fabric-1.20.1-14.1.20.jar": {
     "jarName": "waystones-fabric-1.20.1-14.1.20.jar",
