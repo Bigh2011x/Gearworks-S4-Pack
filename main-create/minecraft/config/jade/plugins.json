@@ -58,6 +58,9 @@
   "quarryplus": {
     "jade_plugin": true
   },
+  "fulleng": {
+    "storage_monitor": true
+  },
   "supplementaries": {
     "hat_stand": true
   },

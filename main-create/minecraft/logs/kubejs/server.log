@@ -1,9 +1,12 @@
-[12:01:40] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
-[12:01:40] [INIT] Loaded plugins:
-[12:01:40] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
-[12:01:40] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricClientPlugin
-[12:01:40] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
-[12:01:40] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[12:01:40] [INFO] Loaded script server_scripts:example.js in 0.001 s
-[12:01:40] [INFO] Loaded 1/1 KubeJS server scripts in 0.009 s with 0 errors and 0 warnings
-[12:01:40] [INFO] Scripts loaded
+[10:15:36] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
+[10:15:36] [INIT] Loaded plugins:
+[10:15:36] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[10:15:36] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricClientPlugin
+[10:15:36] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[10:15:36] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[10:15:36] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[10:15:36] [INFO] Loaded 1/1 KubeJS server scripts in 0.009 s with 0 errors and 0 warnings
+[10:15:36] [INFO] Scripts loaded
+[10:15:36] [WARN] Due to the way Minecraft resource loading works, KubeJS' server.log may not contain everything that happened in your server scripts on initial world creation.
+[10:15:36] [WARN] You can still see the full log (including past reloads) in your latest.log file.
+[10:15:42] [INFO] Server resource reload complete!
